@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 2024 Oct 31 -->
+<!-- Pointers by Wagnard -->
+<!-- all values in hex -->
+
+
+<pointers>
+
+<Horizons>
+
+<Speed
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="150"
+/>	
+		
+<Sway
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3B8"
+/>
+
+<Heave
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3BC"
+/>
+<Surge
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3C0"
+/>
+	
+<Pitch
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3D8"
+/>
+
+<Roll
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3E0"
+/>
+
+<Yaw
+Offsets="5"
+Offset_0="041DB498"
+Offset_1="8"
+Offset_2 ="368"
+Offset_3 ="4B8"
+Offset_4 ="3DC"
+/>
+
+<SRV_Speed
+Offsets="5"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="428"
+Offset_4 ="560"
+/>
+	
+<SRV_Roll
+Offsets="7"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="4C0"
+Offset_4 ="5B0"
+Offset_5 ="70"
+Offset_6 ="400"
+/>
+
+<SRV_Pitch
+Offsets="7"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="4C0"
+Offset_4 ="5B0"
+Offset_5 ="70"
+Offset_6 ="3FC"
+/>
+
+<SRV_Surge
+Offsets="5"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="428"
+Offset_4 ="5A0"
+/>
+
+<SRV_Sway
+Offsets="5"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="428"
+Offset_4 ="558"
+/>
+
+<SRV_Yaw
+Offsets="5"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="428"
+Offset_4 ="5C0"
+/>
+
+
+<SRV_Heave
+Offsets="5"
+Offset_0="041D19E8"
+Offset_1="30"
+Offset_2 ="268"
+Offset_3 ="428"
+Offset_4 ="55C"
+/>
+
+</Horizons>
+
+<Odyssey>
+
+<Speed
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="660"
+/>	
+		
+<Sway
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8C8"
+/>
+
+<Heave
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8CC"
+/>
+<Surge
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8D0"
+/>
+	
+<Pitch
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8E8"
+/>
+
+<Roll
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8F0"
+/>
+
+<Yaw
+Offsets="5"
+Offset_0="05BE2170"
+Offset_1="8"
+Offset_2 ="2A0"
+Offset_3 ="420"
+Offset_4 ="8EC"
+/>
+
+<SRV_Speed
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="400"
+Offset_5 ="B00"
+/>
+	
+<SRV_Roll
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="20"
+Offset_5 ="E8"
+/>
+
+<SRV_Pitch
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="20"
+Offset_5 ="E4"
+/>
+
+<SRV_Surge
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="400"
+Offset_5 ="9F0"
+/>
+
+<SRV_Sway
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="400"
+Offset_5 ="9A8"
+/>
+
+<SRV_Yaw
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="400"
+Offset_5 ="A10"
+/>
+
+<SRV_Heave
+Offsets="6"
+Offset_0="05BE2170"
+Offset_1="10"
+Offset_2 ="10"
+Offset_3 ="20"
+Offset_4 ="400"
+Offset_5 ="9AC"
+/>
+</Odyssey>
+
+</pointers>
