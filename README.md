@@ -6,4 +6,4 @@ This repository contains a pointer XML file designed for use with **FlyPT Mover*
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this file as needed.
 
 ## Feedback
-If you encounter any issues or have suggestions, please open an [issue](https://github.com/yourusername/EliteDangerous-FlyPT/issues) on GitHub.
+If you encounter any issues or have suggestions, please open an [issue](https://github.com/Wagnard/EliteDangerous-Motion-Pointer/issues) on GitHub.
