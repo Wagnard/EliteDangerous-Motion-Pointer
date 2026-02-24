@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- 2025 Dec 03 -->
+<!-- 2026 Feb 24 -->
 <!-- Pointers by Wagnard -->
 <!-- all values in hex -->
 
@@ -143,7 +143,7 @@ Offset_4 ="55C"
 
 <Speed
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -152,60 +152,60 @@ Offset_4 ="660"
 		
 <Sway
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8C8"
+Offset_4 ="8F8"
 />
 
 <Heave
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8CC"
+Offset_4 ="8FC"
 />
 <Surge
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8D0"
+Offset_4 ="900"
 />
 	
 <Pitch
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8E8"
+Offset_4 ="918"
 />
 
 <Roll
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8F0"
+Offset_4 ="920"
 />
 
 <Yaw
 Offsets="5"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
-Offset_4 ="8EC"
+Offset_4 ="91C"
 />
 
 <SRV_Speed
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -215,7 +215,7 @@ Offset_5 ="B00"
 	
 <SRV_Roll
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -225,7 +225,7 @@ Offset_5 ="3B0"
 
 <SRV_Pitch
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -235,7 +235,7 @@ Offset_5 ="3AC"
 
 <SRV_Surge
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -245,7 +245,7 @@ Offset_5 ="9F0"
 
 <SRV_Sway
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -255,7 +255,7 @@ Offset_5 ="9A8"
 
 <SRV_Yaw
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
@@ -265,7 +265,7 @@ Offset_5 ="A10"
 
 <SRV_Heave
 Offsets="6"
-Offset_0="05DF8510"
+Offset_0="05E04528"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
