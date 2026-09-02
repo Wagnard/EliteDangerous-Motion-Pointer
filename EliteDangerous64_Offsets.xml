@@ -143,7 +143,7 @@ Offset_4 ="55C"
 
 <Speed
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -152,7 +152,7 @@ Offset_4 ="650"
 		
 <Sway
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -161,7 +161,7 @@ Offset_4 ="8E8"
 
 <Heave
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -169,7 +169,7 @@ Offset_4 ="8EC"
 />
 <Surge
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -178,7 +178,7 @@ Offset_4 ="8F0"
 	
 <Pitch
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -187,7 +187,7 @@ Offset_4 ="908"
 
 <Roll
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -196,7 +196,7 @@ Offset_4 ="910"
 
 <Yaw
 Offsets="5"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="8"
 Offset_2 ="2A0"
 Offset_3 ="420"
@@ -205,71 +205,71 @@ Offset_4 ="90C"
 
 <SRV_Speed
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="400"
+Offset_4 ="418"
 Offset_5 ="920"
 />
 	
 <SRV_Roll
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="9D8"
+Offset_4 ="9F8"
 Offset_5 ="3B0"
 />
 
 <SRV_Pitch
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="9D8"
+Offset_4 ="9F8"
 Offset_5 ="3AC"
 />
 
 <SRV_Surge
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="400"
+Offset_4 ="418"
 Offset_5 ="960"
 />
 
 <SRV_Sway
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="400"
+Offset_4 ="418"
 Offset_5 ="918"
 />
 
 <SRV_Yaw
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="400"
+Offset_4 ="418"
 Offset_5 ="980"
 />
 
 <SRV_Heave
 Offsets="6"
-Offset_0="05F36120"
+Offset_0="05FAA950"
 Offset_1="10"
 Offset_2 ="10"
 Offset_3 ="20"
-Offset_4 ="400"
+Offset_4 ="418"
 Offset_5 ="91C"
 />
 </Odyssey>
