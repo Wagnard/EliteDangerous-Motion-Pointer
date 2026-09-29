@@ -7,3 +7,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Feedback
 If you encounter any issues or have suggestions, please open an [issue](https://github.com/Wagnard/EliteDangerous-Motion-Pointer/issues) on GitHub.
+
+You can contact me on my discord too : https://discord.gg/JsSsKyqzjF
